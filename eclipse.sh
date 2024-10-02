@@ -1,6 +1,6 @@
 #!/bin/bash
 
-curl -s https://raw.githubusercontent.com/zunxbt/logo/main/logo.sh | bash
+curl -s https://raw.githubusercontent.com/akroyals21/Logo/refs/heads/main/Logo.sh | bash
 sleep 3
 
 show() {
